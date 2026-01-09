@@ -107,16 +107,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samrat25&theme=radical&no-frame=true&margin-w=4" />
-
-</div>
-
----
-
 ## 📈 Contributions & Activity
 
 <div align="center">
@@ -125,13 +115,13 @@
 
 </div>
 
+## 📊 Contribution Grid
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Samrat25/Samrat25/output/github-contribution-grid-snake.svg" />
+<img src="https://ghchart.rshah.org/Samrat25" alt="Samrat25's GitHub Contribution Graph" />
 
 </div>
-
-
 
 
 ## ✍️ Random Dev Quote
