@@ -100,6 +100,7 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Samrat25&show_icons=true&theme=github_dark)
+![](https://github-readme-stats-fast.vercel.app/api/streak?username=Samrat25&theme=github_dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=Samrat25&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat25&layout=compact&theme=github_dark)
 
